@@ -75,6 +75,7 @@ https://github.com/minustin/skyeng/tree/master/3
 https://github.com/minustin/skyeng/tree/master/4
 
 ==========================================
+
 Дано:
 CREATE TABLE test (
   id INT NOT NULL PRIMARY KEY
